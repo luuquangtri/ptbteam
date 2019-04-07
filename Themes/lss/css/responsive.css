@@ -1,0 +1,178 @@
+@media screen and (max-width: 1024px){
+    .main-menu{
+        display: none;
+    }
+    .btn-menu{
+        display: block;
+    }
+}
+@media screen and (max-width: 900px){
+    
+}
+@media screen and (max-width: 768px){
+    .sub-tab ul li:hover{
+        transform: none;
+    }
+    .sub-tab{
+        margin-top: -10px;
+        padding: 10px;
+    }
+}
+@media screen and (max-width: 600px){
+        .about .head .row > .sumary, .services .head .row > .sumary, .content .head .row > .sumary{
+        display: none;
+    }
+    .about .item-child{
+        padding-left: .5rem;
+        padding-right: .5rem;
+    }
+    .about .box, .about .item-child{
+        width: 100%;
+    }
+    .about .item-child-left, .about .item-child-right{
+        width: 100%;
+    }
+    .about .item-child-left .pic, .about .item-child-left .text-child{
+        width: 100%;
+    }
+    .about .item-child-right .pic, .about .item-child-right .text-child{
+        width: 100%;
+    }
+    .about .item-child-right .text-child{
+        margin-left: 0;
+    }
+    .about .item-child-left .text-child{
+        text-align: right;
+    }
+    .about .item-child-right .text-child{
+        text-align: left;
+    }
+
+    .services .services-content{
+        display: none;
+    }
+    .services .services-content-mobile{
+        display: block;
+    }
+
+    .about .head .title h3, .services .head .title h3, .content .head .title h3{
+        position: relative;
+        transform: none;
+        top: 0;
+        left: 0;
+    }    
+    .about, .services, .content{
+        padding-bottom: 0;
+    }
+    .services .item-first, .services .item-child{
+        width: 100%;
+        margin-left: 0;
+    }
+    .services .item-child .services-child{
+        padding-left: .5rem;
+        padding-right: .5rem;
+    }
+
+    .about .head .title, .services .head .title, .content .head .title{
+        width: auto;
+        margin: 0 auto .5rem;
+    }
+    
+    .services .item-child a.buton-link{
+        float: right;
+    }
+    .services .item-child .pic{
+        padding-left: .25rem;
+        padding-right: .25rem;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .parallax .caption{
+        width: 90%;
+    }
+    .parallax .caption .text{
+        font-size: 1rem;
+    }
+
+    .content .content-main .box, .content .content-main .content-first{
+        width: 100%;
+    }
+
+    .content .content-first .thumnails, .content .content-first .news{
+        width: 100%;
+    }
+    .content .content-first .news{
+        transform: translateY(0);
+    }
+    .content .content-first .news::before{
+        top: -4px;
+    }
+    .content .content-list{
+        margin: 0;
+        padding-left: .5rem;
+        padding-right: .5rem;
+    }
+    .content .content-list .item {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .content .content-list .item .thumnails, .content .content-list .item .news{
+        width: 66%;
+    }
+    .content .content-list .item .news{
+        transform: translateY(0);
+        padding: 1.5rem 1rem;
+        margin-top: -2rem;
+    }
+    .content .content-list .item .news .detail,.content .content-list .item .news .bot{
+        display: none;
+    }
+    .content .content-list .item .news a.h5{
+        font-size: 1rem;
+    }
+    .content .content-list .item .news::before{
+        top: -4px;
+        width: 66%;
+    }
+
+    .contact-footer .contact::before{
+        left: 1rem;
+    }
+    .contact-footer .logo, .contact-footer .sumary{
+        display: none;
+    }
+    .contact-footer .follow{
+        text-align: center;
+    }
+    .bot-footer{
+        text-align: center;
+    }
+    .bot-footer .float-left{
+        float: inherit !important;
+    }.bot-footer .float-right{
+        float: inherit !important;
+    }
+    .nav-link{
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .row{
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+}
+@media screen and (max-width: 475px){
+    main{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    header .info, header .follow-header .follow{
+        display: none;
+    }
+    .swiper-button-next, .swiper-button-prev{
+        width: 0;
+    }
+}

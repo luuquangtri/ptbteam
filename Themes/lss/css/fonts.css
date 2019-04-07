@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'UTM Avo';
+    src: url('../fonts/UTMAvo/UTMAvo.eot');
+    src: url('../fonts/UTMAvo/UTMAvod41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UTMAvo/UTMAvo.html') format('woff2'),
+        url('../fonts/UTMAvo/UTMAvo.woff') format('woff'),
+        url('../fonts/UTMAvo/UTMAvo.ttf') format('truetype'),
+        url('../fonts/UTMAvo/UTMAvo.svg#UTMAvo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'UTM Avo';
+    src: url('../fonts/UTMAvoBold/UTMAvoBold.eot');
+    src: url('../fonts/UTMAvoBold/UTMAvoBoldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UTMAvoBold/UTMAvoBold.html') format('woff2'),
+        url('../fonts/UTMAvoBold/UTMAvoBold.woff') format('woff'),
+        url('../fonts/UTMAvoBold/UTMAvoBold.ttf') format('truetype'),
+        url('../fonts/UTMAvoBold/UTMAvoBold.svg#UTMAvoBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'UTM Libel KT';
+    src: url('../fonts/UTMLibelKT/UTMLibelKT.eot');
+    src: url('../fonts/UTMLibelKT/UTMLibelKTd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UTMLibelKT/UTMLibelKT.html') format('woff2'),
+        url('../fonts/UTMLibelKT/UTMLibelKT.woff') format('woff'),
+        url('../fonts/UTMLibelKT/UTMLibelKT.ttf') format('truetype'),
+        url('../fonts/UTMLibelKT/UTMLibelKT.svg#UTMLibelKT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'UTM Neo Sans Intel';
+    src: url('../fonts/UTMNeoSansIntel/UTMNeoSansIntel.eot');
+    src: url('../fonts/UTMNeoSansIntel/UTMNeoSansInteld41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UTMNeoSansIntel/UTMNeoSansIntel.html') format('woff2'),
+        url('../fonts/UTMNeoSansIntel/UTMNeoSansIntel.woff') format('woff'),
+        url('../fonts/UTMNeoSansIntel/UTMNeoSansIntel.ttf') format('truetype'),
+        url('../fonts/UTMNeoSansIntel/UTMNeoSansIntel.svg#UTMNeoSansIntel') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/HelveticaNeue-Light/HelveticaNeue-Light.eot');
+    src: url('../fonts/HelveticaNeue-Light/HelveticaNeue-Lightd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HelveticaNeue-Light/HelveticaNeue-Light.html') format('woff2'),
+        url('../fonts/HelveticaNeue-Light/HelveticaNeue-Light.woff') format('woff'),
+        url('../fonts/HelveticaNeue-Light/HelveticaNeue-Light.ttf') format('truetype'),
+        url('../fonts/HelveticaNeue-Light/HelveticaNeue-Light.svg#HelveticaNeue-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/HelveticaNeue-LightItalic/HelveticaNeue-LightItalic.eot');
+    src: url('../fonts/HelveticaNeue-LightItalic/HelveticaNeue-LightItalicd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HelveticaNeue-LightItalic/HelveticaNeue-LightItalic.html') format('woff2'),
+        url('../fonts/HelveticaNeue-LightItalic/HelveticaNeue-LightItalic.woff') format('woff'),
+        url('../fonts/HelveticaNeue-LightItalic/HelveticaNeue-LightItalic.ttf') format('truetype'),
+        url('../fonts/HelveticaNeue-LightItalic/HelveticaNeue-LightItalic.svg#HelveticaNeue-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face{
+    font-family: 'MS Italic';
+    src: url('../fonts/MSReferenceSerifItalic.ttf') format('truetype')
+}

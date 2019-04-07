@@ -1,0 +1,87 @@
+.sub-tab ul li::before{
+    background-color: #3366ff;
+}
+.about .head .title::after, .services .head .title::after, .content .head .title::after{
+    background-color: #3366ff;
+}
+.about .head .title h3, .services .head .title h3, .content .head .title h3{
+    color: #3366ff;
+}
+.about .head .sumary, .services .head .sumary, .content .head .sumary{
+    color: white;
+}
+.about-content .title{
+    color: #3366ff;
+}
+.sumary,.text_lss1,.text_lss{
+    color: white;   
+}
+.main-menu ul.lv-1>li>a:before{
+    background-color: #3366ff;
+}
+.main-menu li:hover>a, .main-menu li a.active{
+    color: #3366ff;
+}
+.bot-footer{
+    background-color: #3366ff;
+}
+.b-before::before{
+    background-color: #440e62;
+}
+.caps{
+    font-size: 80px;
+}
+.about .head .title, .services .head .title, .content .head .title{
+    color: #3366ff;
+}
+.about .head .title-left, .services .head .title-left, .content .head .title-left {
+    color: #3366ff;
+}
+.about .head .title-left::before, .services .head .title-left::before, .content .head .title-left::before{
+    background-color: #3366ff;
+}
+.news{
+    background: black;
+    color: white;
+    box-shadow: 10px 10px 10px #3366ff;
+}
+.content .content-first .news::before, .content .content-list .item .news::before, .page-news .content-list .item .news::before, .page-news .content-list-2 .item .news::before{
+    background-color: #3366ff;
+}
+.content .content-first .news, .content .content-list .item .news, .page-news .content-list .item .news, .page-news .content-list-2 .item .news{
+    background: black;
+    color: white;
+    box-shadow: 10px 10px 10px #3366ff;
+}
+.head a{
+    color: white;
+}
+.content .content-first .news .head a:hover, .content .content-list .item .news .head a:hover, .page-news .content-list .item .news .head a:hover, .page-news .content-list-2 .item .news .head a:hover, .content .content-first .news .head a:focus, .content .content-list .item .news .head a:focus, .page-news .content-list .item .news .head a:focus, .page-news .content-list-2 .item .news .head a:focus{
+    color: #3366ff;
+}
+.contact-footer .contact-main, .contact-footer .contact-subhead{
+    background-color: rgba(0,0,0,0.7);
+}
+.col-form-label{
+    color: white;
+}
+.button-link-2{
+    background-color: #3366ff;
+}
+.button-link-2:hover, .button-link-2:active, .button-link-2.active{
+    box-shadow: -3px 5px 5px #3366ff;
+}
+.contact-footer .contact .title{
+    color: #3366ff;
+}
+.contact-footer .contact::before{
+    background-color: #3366ff; 
+}
+.buton-link{
+    color: white;
+    border: 1px solid #3366ff;
+}
+.buton-link:hover, .buton-link:active, .buton-link.active{
+    color: black;
+    background: #3366ff;
+}
