@@ -880,9 +880,9 @@ h1 span:nth-child(7) {
         top:55%;
         font-size:25px;
     }
-    .home-banner section::before{
+    /* .home-banner section::before{
         background: none !important;
-    }
+    } */
 }
 
 @media screen and (min-width: 421px) and (max-width: 600px) {
@@ -899,9 +899,9 @@ h1 span:nth-child(7) {
         top:55%;
         font-size:25px;
     }
-    .home-banner section::before{
+    /* .home-banner section::before{
         background: none !important;
-    }
+    } */
 }
 
 @media screen and (min-width: 601px) and (max-width: 768px) {
@@ -914,9 +914,9 @@ h1 span:nth-child(7) {
     .home-banner section {
         height: 100%;
     }
-    .home-banner section::before{
+    /* .home-banner section::before{
         background: none !important;
-    }
+    } */
     .home-banner h1{
         top:55%;
         font-size:50px;
