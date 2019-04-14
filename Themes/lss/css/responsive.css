@@ -18,7 +18,7 @@
         padding: 10px;
     }
 }
-@media screen and (max-width: 600px){
+/* @media screen and (max-width: 600px){
         .about .head .row > .sumary, .services .head .row > .sumary, .content .head .row > .sumary{
         display: none;
     }
@@ -175,4 +175,8 @@
     .swiper-button-next, .swiper-button-prev{
         width: 0;
     }
-}
+    .pic-sub .s40{
+        top: 68%;
+        left: 69%;
+    }
+} */
